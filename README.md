@@ -9,9 +9,10 @@
 
  __Key Features__ 🔑:
 
-- Seamless GitHub Profile Exploration: Quickly and effortlessly retrieve detailed information about any GitHub user by entering their username.
-- Elegent User InterFace
-- Responsive Design: Enjoy a seamless experience across devices.
+- Cutting-Edge Technology:  Powered by React.js (Vite) and Tailwind CSS, our website leverages the latest web development technologies to deliver lightning-fast performance and a smooth user experience.
+- Elegent User InterFace : imerse yourself in a visually stunning interface .
+- Responsive Design: Access your banking services seamlessly on any device , whether it is a desktop or smartphone .
+- Navigation: Easily find what you need with our friendly navigation meny <br>
  <br>
   
 
